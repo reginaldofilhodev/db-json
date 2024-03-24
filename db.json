@@ -1,0 +1,12 @@
+{
+  "auth": [
+    {
+      "id": 1,
+      "key": "123456"
+    }
+  ],
+  "profile": {
+    "auth_id": 1,
+    "color_percil": "#0000"
+  }
+}
